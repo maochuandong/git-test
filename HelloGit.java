@@ -2,6 +2,7 @@ public class HelloGit{
 	public static void main(String[] args){
 		System.out.println("Hello Git!");
 		int num = game_1();
+		System.out.println(num);
 	}
 	public static int game_1(){
 		Random r = new Random();
