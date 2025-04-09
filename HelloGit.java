@@ -2,7 +2,6 @@ public class HelloGit{
 	public static void main(String[] args){
 		System.out.println("Hello Git!");
 		int num = game_1();
-		num++;
 		System.out.println(num);
 	}
 	public static int game_1(){
